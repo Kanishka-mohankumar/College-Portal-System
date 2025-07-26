@@ -35,7 +35,7 @@ The **College Portal System** is a web-based application aimed at simplifying da
 
 - **Frontend**: React.js  
 - **Backend**: PHP  
-- **Database**: Local Database (MySQL or SQLite)    
+- **Database**: Local Database   
 - **Version Control**: Git & GitHub  
 
 ---
