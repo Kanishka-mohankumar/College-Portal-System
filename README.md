@@ -38,6 +38,5 @@ The **College Portal System** is a web-based application aimed at simplifying da
 - **Database**: Local Database   
 - **Version Control**: Git & GitHub  
 
----
 
 
