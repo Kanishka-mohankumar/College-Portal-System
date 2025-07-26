@@ -6,28 +6,38 @@ A simple and efficient college portal designed to manage academic activities suc
 
 ## 🧾 About
 
-The **College Portal System** is a web-based application aimed at simplifying day-to-day academic interactions between students and faculty. It is built as a local deployment without authentication, mainly for demonstration or internal use within institutions.
+The **College Portal System** is a web-based application aimed at simplifying day-to-day academic interactions between students, faculty, and administrators. It is built for **local deployment** without authentication, mainly for demonstration or internal use within institutions.
 
 ---
 
 ## ✅ Features
 
-- Student dashboard:
-  - View courses  
-  - View timetable  
-  - View announcements  
+- **🎓 Student Dashboard**:
+  - View enrolled courses and subjects  
+  - Access weekly class timetable  
+  - View latest announcements and circulars  
+  - Download class materials or notes  
+  - View exam schedules and academic calendar  
+  - Access personal profile and update contact info  
 
-- Faculty dashboard:
-  - Manage assigned subjects  
-  - Post announcements/notices  
+- **👨‍🏫 Faculty Dashboard**:
+  - View and manage assigned subjects  
+  - Upload study materials and resources  
+  - Post announcements to specific classes  
+  - View student lists per course/subject  
+  - Update and manage internal marks or attendance  
 
-- Admin panel:
-  - Manage student and faculty data  
-  - Assign courses and schedules  
+- **🛠️ Admin Panel**:
+  - Add/edit/delete student and faculty records  
+  - Assign courses and create class schedules  
+  - Post system-wide notices and circulars  
+  - Manage subject mappings and course codes  
+  - View overall system statistics and logs  
 
-- Clean and responsive user interface  
-- Built with **React.js** (frontend) and **PHP** (backend)  
-- Uses a **local database**   
+- Responsive and clean user interface  
+- Built using **React.js** (Frontend) and **PHP** (Backend)  
+- Utilizes a **local database** (no cloud or authentication)  
+- Code managed with **Git & GitHub**
 
 ---
 
@@ -35,8 +45,29 @@ The **College Portal System** is a web-based application aimed at simplifying da
 
 - **Frontend**: HTML5, CSS3, React.js  
 - **Backend**: PHP  
-- **Database**: Local Database   
+- **Database**: Local Database (e.g., MySQL or SQLite for demo)  
 - **Version Control**: Git & GitHub  
 
+---
 
+## 🪪 License
 
+**© 2025 Kanishka Mohankumar – All Rights Reserved**  
+This project is intended solely for **personal viewing**.  
+
+You are **not permitted** to:  
+- Reuse or republish the content or code  
+- Modify, copy, or redistribute this work  
+- Use it for commercial or educational distribution  
+
+🔒 For inquiries or permission, contact [kanishkamohan223@gmail.com](mailto:kanishkamohan223@gmail.com)
+
+---
+
+## 👤 Author
+
+**Kanishka Mohankumar**  
+- 📧 [kanishkamohan223@gmail.com](mailto:kanishkamohan223@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kanishka-mohan-96550b35b/)  
+- 💻 [GitHub](https://github.com/Kanishka-mohankumar)  
+- 🔢 [LeetCode](https://leetcode.com/u/Kanishka_33/)
