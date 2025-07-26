@@ -27,8 +27,7 @@ The **College Portal System** is a web-based application aimed at simplifying da
 
 - Clean and responsive user interface  
 - Built with **React.js** (frontend) and **PHP** (backend)  
-- Uses a **local database** (MySQL or SQLite)  
-- No authentication (for simplified local/demo use)
+- Uses a **local database**   
 
 ---
 
@@ -36,14 +35,9 @@ The **College Portal System** is a web-based application aimed at simplifying da
 
 - **Frontend**: React.js  
 - **Backend**: PHP  
-- **Database**: Local Database (MySQL or SQLite)  
-- **Authentication**: Not implemented  
+- **Database**: Local Database (MySQL or SQLite)    
 - **Version Control**: Git & GitHub  
 
 ---
 
-## 🚀 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/college-portal-system.git
