@@ -67,7 +67,4 @@ You are **not permitted** to:
 ## 👤 Author
 
 **Kanishka Mohankumar**  
-- 📧 [kanishkamohan223@gmail.com](mailto:kanishkamohan223@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kanishka-mohan-96550b35b/)  
-- 💻 [GitHub](https://github.com/Kanishka-mohankumar)  
-- 🔢 [LeetCode](https://leetcode.com/u/Kanishka_33/)
+GitHub: [@Kanishka-mohankumar](https://github.com/Kanishka-mohankumar)
