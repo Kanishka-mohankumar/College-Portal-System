@@ -8,30 +8,18 @@ The College Portal System is a web-based application aimed at simplifying day-to
 Student dashboard:
 
 View courses
-
 View timetable
-
 View announcements
 
 Faculty dashboard:
 
 Manage assigned subjects
-
 Post announcements/notices
 
 Admin panel:
 
 Manage student and faculty data
-
 Assign courses and schedules
-
 Clean and responsive user interface
 
-Built with React.js (frontend) and PHP (backend)
-
-Uses a local database (MySQL or SQLite)
-
-No authentication (for simplified local/demo use)
-
-Backend/API: http://localhost/backend/
 
